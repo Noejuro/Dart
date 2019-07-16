@@ -1,5 +1,6 @@
 void main() {
   // Runes
+  // Emoji list: http://www.unicode.org/emoji/charts/full-emoji-list.html#1f601
   var carita = '\u{1F601}';
   print(carita);
   
